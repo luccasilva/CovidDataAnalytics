@@ -1,0 +1,22 @@
+{
+"AL": "https://covid19.dados.al.gov.br/sintomas",
+"AM": "http://www.fvs.am.gov.br/media/uploads/sala_de_situacao/Banco_COVID_esus_27jul_pOC3qM3.csv",
+"ES": "https://bi.static.es.gov.br/covid19/MICRODADOS.csv",
+"GO_casos": "http://datasets.saude.go.gov.br/coronavirus/casos_confirmados.csv",
+"GO_obitos": "http://datasets.saude.go.gov.br/coronavirus/obitos_confirmados.csv",
+"MA_obitos": "http://www.saude.ma.gov.br/wp-content/uploads/2020/07/%C3%93bitos-Anonimizados-3007.csv",
+"MG": "http://coronavirus.saude.mg.gov.br/images/csv-microdados/csv_sistemas.csv",
+"PB_obitos": "https://superset.plataformatarget.com.br/superset/explore_json/?form_data=%7B%22slice_id%22%3A1549%7D&csv=true",
+"PR": "https://www.documentador.pr.gov.br/documentador/pub.do?action=d&uuid=@gtf-escriba-sesa@e5a0c2e8-2409-4404-9a22-cab3447af1f5",
+"PE": "https://dados.seplag.pe.gov.br/apps/basegeral.csv",
+"RJ": "http://painel.saude.rj.gov.br/arquivos/COVID.CSV",
+"RN_testados": "https://covid.lais.ufrn.br/dados_abertos/faixa_etaria_pacientes_testados.csv",
+"RN_positivos": "https://covid.lais.ufrn.br/dados_abertos/faixa_etaria_pacientes_positivos.csv",
+"RN_obitos": "https://covid.lais.ufrn.br/dados_abertos/faixa_etaria_pacientes_obitos.csv",
+"RS": "https://ti.saude.rs.gov.br/covid19/download",
+"RO": "http://covid19.sesau.ro.gov.br/arquivos/TabelaESus.csv",
+"RO_obitos": "http://covid19.sesau.ro.gov.br/arquivos/Obitos.csv",
+"RR": "https://s3-sa-east-1.amazonaws.com/ckan.saude.gov.br/dados-rr.csv",
+"SC": "ftp://boavista:dados_abertos@ftp2.ciasc.gov.br/boavista_covid_dados_abertos.csv",
+"DF": "https://covid19.ssp.df.gov.br/resources/dados/dados-abertos.csv?param=[random]"
+}
